@@ -1,0 +1,209 @@
+.navbar{
+    width: 100% ;
+    height: 500px;
+    background-image: url("../../images/diagramme.jpeg");
+    background-size: cover ;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+.pho{
+    width: 12%;
+    height: 90px;
+    margin-right: 55%;
+    color: white;
+}
+.nav{
+    /* background-color: white; */
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.pho2{
+    width: 20px;
+    height: 20px;
+    margin-right: 3% ;
+}
+.pho3{
+    width: 20px;
+    height: 20px;
+    margin-right: 3% ;
+}
+.pho4{
+    width: 30px;
+    height: 30px;
+}
+.pho5{
+    width: 60px;
+    height: 60px;
+    margin-bottom: -20px;
+}
+.wini{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-right: 30%;
+}
+.liens{
+    /* background-color: white; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f5f0f0;
+    margin-left: 150px;
+}
+.ac{
+    margin-right: 3% ; 
+    font-size: 15px;
+    list-style-type: none;
+    color: white;
+}
+.acc{
+    font-size: 15px;
+    list-style-type: none;
+    color: #101010; 
+}
+.duit{
+    color: #f5f0f0;
+} 
+.se{
+    margin-right: 3% ; 
+    font-size: 15px;
+    list-style-type: none;
+    color: white;
+}
+.pro{
+    margin-right: 3% ; 
+    font-size: 15px;
+    list-style-type: none;
+    color: white;
+}
+.co{
+    font-size: 15px;
+    list-style-type: none;
+    color: white;
+}
+.texte{
+    margin-top: 80px;
+    margin-left: 40%;
+}
+
+.wis{
+   font-size: 40px; 
+   color: white;
+}
+.tex{
+    margin-left: 30px;
+    color: white;
+    margin-top: -10px;
+}
+.cadre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cadre1{
+    width: 20%;
+    height: 270px;
+    background-color: rgb(214, 212, 216);
+    margin-right: 20px;
+    margin-top: 50px;
+}
+.cadre1:hover{
+    background-color: rgba(18, 3, 59, 1);
+    cursor: pointer;
+    color: #f5f0f0;
+}
+.lisations{
+    width: 70px;
+    height: 70px;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+.adresse{
+    margin-left: 110px;
+}
+.ip{
+    margin-left: 110px;
+}
+.grand_card{
+    width: 80%;
+    height: 650px;
+   background-color: rgba(18, 3, 59, 1);
+    margin-left: 150px;
+    margin-top: 100px;
+    display: flex;
+    color: #f5f0f0;
+  /*   background: linear-gradient(
+        35deg,
+        rgba(18, 3, 59, 1),
+        white,
+        rgba(18, 3, 59, 1)
+    ); */
+}
+.sations{
+    width: 40%;
+    height: 650px;
+    margin-top: -100px;
+    margin-left: 200px;
+}
+.forme{
+    margin-top: 100px;
+}
+.in{
+    margin-left: 50px;
+}
+.ecrit2{
+    background-color: rgba(18, 3, 59, 1);
+    width: 100%;
+    height: 400px;
+    color: white;
+}
+.po2{
+    margin-left: 30%;
+    margin-top: 0px;
+}
+.inpute{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+}
+.btn2{
+    margin-left: -100px;
+    /* margin-top: 10px; */
+    height: 30px;
+    width: 5%;
+    border-radius: 50px ;
+    border-style: solid ;
+    border-color: transparent;
+}
+.btn2:hover{
+    cursor: pointer;
+    transition: ease-out;
+    width: 8%;
+}
+.put{
+    width: 18%;
+    height: 35px;
+    margin-right: 155px;
+}
+.btn3{
+    margin-left: 0px;
+    height: 30px;
+    width: 20%;
+    border-radius: 50px ;
+    border-style: solid ;
+    border-color: transparent;
+}
+.foot{
+    margin-right: 450px;
+}.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact{
+    margin-right: 250px;
+}
+.liens{
+    margin-right: 250px;
+}
